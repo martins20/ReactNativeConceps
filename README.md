@@ -27,7 +27,7 @@
 
 <div align="center">
   
-  
+  <img src="./assets/RepositoryListMobile.gif" width="150px" alt="Gif"/>
   
  </div>
 
@@ -59,4 +59,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ---
 
-Feito com 💜 by Rocketseat & Martins20 
+Feito com 💜 by Rocketseat & Martins20
