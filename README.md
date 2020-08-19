@@ -25,6 +25,12 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+<div align="center">
+  
+  
+  
+ </div>
+
 ## :rocket: Sobre o desafio
 
 Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no React Native!
