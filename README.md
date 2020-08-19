@@ -25,6 +25,12 @@
   <a href="#memo-licença">Licença</a>
 </p>
 
+## :rocket: Sobre o desafio
+
+Nesse desafio, você deve criar uma aplicação para treinar o que você aprendeu até agora no React Native!
+
+Agora você deve continuar desenvolvendo a aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o <a href="https://github.com/martins20/NodeConcepts">backend</a> utilizando o Node.js, e no <a href="https://github.com/martins20/ReactjsConcepts">último</a> desafio em ReactJS.
+
 ### Funcionalidades da aplicação
 
 - **`Listar os repositórios da sua API`**: Deve ser capaz de criar uma lista de todos os repositórios que estão cadastrados na sua API com os campos **title**, **techs** e número de curtidas seguindo o padrão `${repository.likes} curtidas`, apenas alterando o número para ser dinâmico.
