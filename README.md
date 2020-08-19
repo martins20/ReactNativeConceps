@@ -27,7 +27,7 @@
 
 <div align="center">
   
-  <img src="./assets/RepositoryListMobile.gif" width="150px" alt="Gif"/>
+  <img src="./assets/RepositoryListMobile.gif" width="300px" alt="Gif"/>
   
  </div>
 
